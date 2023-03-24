@@ -6,3 +6,15 @@
 .cursor {
   cursor: pointer;
 }
+
+.bg_img {
+  background-image: url("../src/assets/img/png/nature.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+html,
+body {
+  overflow-x: hidden;
+}

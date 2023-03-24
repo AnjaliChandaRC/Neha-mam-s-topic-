@@ -1,12 +1,14 @@
 import "./App.css";
 import "bootstrap/dist/css/bootstrap.min.css";
 // import EmailJs from "./components/EmailJs";
-import Gsap from "./components/Gsap";
+// import Try from "./components/Try";
+import GsapTopic from "./components/GsapTopic";
 function App() {
   return (
     <>
       {/* <EmailJs /> */}
-      <Gsap />
+      <GsapTopic />
+      {/* <Try /> */}
     </>
   );
 }
